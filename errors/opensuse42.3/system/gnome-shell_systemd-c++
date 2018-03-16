@@ -1,0 +1,2 @@
+Q:In opensuse 42.3, CPU usage of system is always 100%.
+A:By command "tracker daemon -k; tracker reset --hard", I solve it.
