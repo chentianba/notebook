@@ -1,0 +1,1 @@
+When installing virtualbox additions, we need to install 'kernel-devel make gcc' first. Above all, you should guarantee your system is up-to-date.
