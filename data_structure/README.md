@@ -1,7 +1,7 @@
 # Contents
-- [Fenwick Tree](#fenwicktree)
-  - Fenwick Tree（树形数组）
-### 1. [Fenwick Tree（树形数组）](#fenwicktree)
+- [Fenwick Tree](###Fenwick Tree（树形数组）)
+  - [Fenwick Tree（树形数组）](#fenwicktree)
+###  [Fenwick Tree（树形数组）]
 	目标：
 	对一个数组的区间进行求和，并且在随时修改数组的任意值后，能快速地进行区间求和。
 	复杂度：
