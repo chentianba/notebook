@@ -6,4 +6,11 @@
     sudo /usr/share/openvswitch/scripts/ovs-ctl start
     ```
 2. 其他
-## 其他
+## system
+1. gnome-shell_systemd-c++
+    >Q: In opensuse 42.3, CPU usage of system is always 100%.  
+    A: By command "tracker daemon -k; tracker reset --hard", I solve it.
+2. 其他
+## virtualbox
+1. virtualbox-additions
+   >When installing virtualbox additions, we need to install 'kernel-devel make gcc' first. Above all, you should guarantee your system is up-to-date.
