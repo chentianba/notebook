@@ -5,7 +5,12 @@
     sudo /usr/share/openvswitch/scripts/ovs-ctl stop
     sudo /usr/share/openvswitch/scripts/ovs-ctl start
     ```
-2. 其他
+2. 默认ovs安装只安装低版本，高版本需要自己手动编译安装
+
+   **查看版本命令:**
+   > \# ovs-vsctl show
+   
+   [安装教程](https://www.cnblogs.com/goldsunshine/p/10331606.html)
 ## system
 1. gnome-shell_systemd-c++
     >Q: In opensuse 42.3, CPU usage of system is always 100%.  
