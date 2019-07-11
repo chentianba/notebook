@@ -23,3 +23,8 @@
 ## virtualbox
 1. virtualbox-additions
    >When installing virtualbox additions, we need to install 'kernel-devel make gcc' first. Above all, you should guarantee your system is up-to-date.
+2. Opensuse42.3 安装vmware14时,需要提前使用以下命令，再进行安装
+   ```
+   # modprobe -r kvm_intel
+   # modprobe -r kvm
+   ```
