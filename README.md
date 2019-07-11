@@ -11,3 +11,5 @@ This is what I sum from studying and the import thing I think. I believe everyon
 - 错误总结
   - [opensuse42.3中遇见的错误](https://github.com/chentianba/notebook/blob/master/errors/opensuse42.3/README.md)
 - [SS的搭建教程](https://github.com/chentianba/notebook/blob/master/SS/README.md)
+- [资源列表](https://github.com/chentianba/notebook/blob/master/resource.md)
+- [README写法教程](https://github.com/chentianba/notebook/blob/master/readme_tutorial.md)
