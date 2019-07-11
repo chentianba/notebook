@@ -10,3 +10,4 @@ This is what I sum from studying and the import thing I think. I believe everyon
   - [树形数组 FenwickTree](https://github.com/chentianba/notebook/blob/master/data_structure/README.md#%E6%A0%91%E5%BD%A2%E6%95%B0%E7%BB%84Fenwicktree)
 - 错误总结
   - [opensuse42.3中遇见的错误](https://github.com/chentianba/notebook/blob/master/errors/opensuse42.3/README.md)
+- [SS的搭建教程](https://github.com/chentianba/notebook/blob/master/SS/README.md)
