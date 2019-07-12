@@ -4,3 +4,16 @@
 > ovs-ofctl: none of the usable flow formats (OXM-OpenFlow13,OXM-OpenFlow14,OXM-OpenFlow15,OXM-OpenFlow16) is among the allowed flow formats (OpenFlow10,NXM)
 
 A: 需要显示的指定OpenFlow的版本，例如加上`-O OpenFlow13`
+
+### 2. 使用2.8以上的OVS版本，但是查看meter功能时，显示不支持  
+```
+# ovs-ofctl -O OpenFlow13 meter-features s1
+OFPST_METER_FEATURES reply (OF1.3) (xid=0x2):
+max_meter:0 max_bands:0 max_color:0
+band_types: 0
+capabilities: 0
+```
+A: 使用命令将datapath设置为netdev
+```
+# ovs-vsctl set bridge s2 datapath_type=netdev
+```
