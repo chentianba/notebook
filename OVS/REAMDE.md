@@ -20,3 +20,15 @@ A: 使用命令将datapath设置为netdev
 ```
 # ovs-vsctl set bridge s2 datapath_type=netdev
 ```
+### 3. ovs-vsctl: unix:/usr/local/var/run/openvswitch/db.sock: database connection failed (No such file or directory)  
+    **Solution:**
+    ```Bash
+    sudo /usr/share/openvswitch/scripts/ovs-ctl stop
+    sudo /usr/share/openvswitch/scripts/ovs-ctl start
+    ```
+### 4. 默认ovs安装只安装低版本，高版本需要自己手动编译安装
+
+   **查看版本命令:**
+   > \# ovs-vsctl show
+   
+   [安装教程](https://www.cnblogs.com/goldsunshine/p/10331606.html)
