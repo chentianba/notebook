@@ -32,3 +32,8 @@ A: 使用命令将datapath设置为netdev
    > \# ovs-vsctl show
    
    [安装教程](https://www.cnblogs.com/goldsunshine/p/10331606.html)
+### 5. 正常安装ovs2.11.1后，meter特性不支持，其他基本功能没问题
+没有正确安装，安装前的配置需要指定对应的内核模块
+```
+./configure --with-linux=/lib/modules/`uname -r`/build
+```
