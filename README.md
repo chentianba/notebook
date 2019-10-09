@@ -1,5 +1,5 @@
 ## Thoughts
-This is what I sum from studying and the import thing I think. I believe everyone can learn a lot from it.
+好记性不如烂笔头
 
 ## 目录
 - linux三剑客--grep、awk、sed
