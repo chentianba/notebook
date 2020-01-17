@@ -13,6 +13,7 @@
   - Ubuntu18.04中碰到的问题
     1. [Ubuntu18.04 开机自启动脚本](/errors/ubuntu18.04/README.md#1-ubuntu1804-开机自启动脚本)
     2. [Ubuntu下解决端口被占用问题](/errors/ubuntu18.04/README.md#Ubuntu下解决端口被占用问题)
+    2. [Ubuntu下笔记本触碰板右键失灵](/errors/ubuntu18.04/README.md#Ubuntu下笔记本触碰板右键失灵)
 - [SS的搭建教程](/SS/README.md)
 - [资源列表](/resource.md)
 - [README写法教程](/readme_tutorial.md)
