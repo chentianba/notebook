@@ -10,3 +10,9 @@
 $ sudo lsof -i:端口号  
 $ sudo kill PID号
 ```
+
+### 3. Ubuntu下笔记本触碰板右键失灵
+在terminal运行命令
+```bash
+$ gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
+```
