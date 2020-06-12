@@ -14,7 +14,10 @@
     1. [Ubuntu18.04 开机自启动脚本](/errors/ubuntu18.04/README.md#1-ubuntu1804-开机自启动脚本)
     2. [Ubuntu下解决端口被占用问题](/errors/ubuntu18.04/README.md#Ubuntu下解决端口被占用问题)
     2. [Ubuntu下笔记本触碰板右键失灵](/errors/ubuntu18.04/README.md#Ubuntu下笔记本触碰板右键失灵)
-- [SS的搭建教程](/SS/README.md)
 - [资源列表](/resource.md)
 - [README写法教程](/readme_tutorial.md)
 - [OVS](/OVS/REAMDE.md)
+- [Shell编程](/shell_programming.md)
+- 超级实用工具
+    * [Python数据分析之Matplotlib可视化最有价值的50个图表（附完整Python源代码）](https://www.cnblogs.com/Mario-mj/p/11695325.html)
+    * [SS的搭建教程](/SS/README.md)

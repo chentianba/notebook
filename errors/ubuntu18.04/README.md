@@ -16,3 +16,6 @@ $ sudo kill PID号
 ```bash
 $ gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
 ```
+
+### 4. Ubuntu 18.04启动太慢
+[Ubuntu18.04启动太慢不能忍](https://www.cnblogs.com/gaowengang/p/10854042.html)
