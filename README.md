@@ -21,3 +21,5 @@
 - 超级实用工具
     * [Python数据分析之Matplotlib可视化最有价值的50个图表（附完整Python源代码）](https://www.cnblogs.com/Mario-mj/p/11695325.html)
     * [SS的搭建教程](/SS/README.md)
+- 常用软件配置
+    * [git](config/.gitconfig)
