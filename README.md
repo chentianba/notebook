@@ -25,3 +25,5 @@
     * [SS的搭建教程](/SS/README.md)
 - 常用软件配置
     * [git](config/.gitconfig)
+- latex使用
+    * [Latex 生成参考文献 及 无法生成参考文献原因](https://blog.csdn.net/iscassucess/article/details/8459447)
